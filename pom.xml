@@ -6,7 +6,8 @@
 	<modules>
 		<module>grpc-client</module>
 		<module>grpc-service</module>
-	</modules>
+        <module>grpc-interface</module>
+    </modules>
 	<groupId>com</groupId>
 	<artifactId>grpc-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
